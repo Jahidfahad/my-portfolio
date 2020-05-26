@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500&display=swap');
+
+.about{
+    padding-bottom: 70px;
+}
+
+.about-title h2{
+    color: #02c39a;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
+    margin-bottom: 70px;
+    margin-top: 200px;
+    border-radius: 6px;
+    text-align: center;
+}
+
+
+.about-details p{
+    color: #f1faee;
+    font-family:'Ubuntu', sans-serif ;
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 2rem;
+}
+
+.about-img img{
+    border-radius: 100px;
+    margin:30px ;
+}

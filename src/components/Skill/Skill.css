@@ -1,0 +1,36 @@
+.skill-progress .card{
+    background-color: #1d3557;
+    margin-bottom: 30px;
+}
+
+.skill .skill-title h2{
+    color:#02c39a;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
+    margin-bottom: 70px;
+    margin-top: 200px;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.skill-progress .progress-bar{
+    background-color: #02c39a;
+}
+
+
+.skill{
+    padding-bottom: 100px;
+}
+.skill-progress .card-title{
+    display: flex;
+    gap: 60%;
+    
+}
+
+.skill-progress .card-title h5{
+    color:#fff;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
